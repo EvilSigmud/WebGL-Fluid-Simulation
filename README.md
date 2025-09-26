@@ -1,3 +1,4 @@
+# this now works offline with only the single html file!
 # WebGL Fluid Simulation
 
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
